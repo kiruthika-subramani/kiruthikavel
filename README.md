@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kiruthikavel
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning advanced java.
+- 👋 Hi, I’m Kiruthika Subramani
+- 👀 A software engineer
+- 🌱 Building scalable and robust products
 
-
-
-<!---
-kiruthikavel/kiruthikavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
